@@ -36,9 +36,9 @@
 ### 📊 GitHub Stats
 
 <!-- Substitua `seu-usuario` pelo seu @ no GitHub -->
-![Maria Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=welkmaria&show_icons=true&theme=radical)
+![Maria Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=welkmari&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welkmaria&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welkmari&layout=compact&theme=radical)
 
 ---
 

@@ -1,31 +1,49 @@
-## 👩‍💻 Sobre mim
+<h1 align="center">👩‍💻 Maria Helena Welk</h1>
 
-Olá! Meu nome é **Maria Helena Welk**, tenho **18 anos** e atualmente estou em formação na área de desenvolvimento de sistemas.
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas | Aprendiz em Programação de Sistemas da Informação
+</p>
 
-🎓 **Formação em andamento:**
+---
+
+### 🎓 Formação
+
 - Técnico em **Desenvolvimento de Sistemas**
-- Curso de **Aprendizagem Industrial em Programação de Sistemas da Informação**
-
-Atualmente estou focada no desenvolvimento de competências técnicas em programação, com ênfase em lógica, estrutura de dados e desenvolvimento web.
+- Aprendizagem Industrial: **Programador de Sistemas da Informação** – SENAI
 
 ---
 
-## 🧠 Conhecimentos em desenvolvimento
+### 💼 Minhas Skills
 
-- **Linguagens:** JavaScript (em estudo), Python
-- **Front-end:** HTML5, CSS3, conceitos de responsividade
-- **Banco de Dados:** MySQL
-- **Ferramentas:** GitHub, VS Code
+#### Aplicações e dados
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### Ferramentas de Desenvolvimento
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🎯 Objetivo profissional
+### 📊 GitHub Stats
 
-Busco oportunidades de estágio ou projetos que me permitam aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de desenvolvimento de software.
+<!-- Substitua `seu-usuario` pelo seu @ no GitHub -->
+![Maria Helena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
-- E-mail: welktech46@gmail.com
-- LinkedIn: https://br.linkedin.com/in/maria-helena-welk-493a96272
+- ✉️ E-mail: [seu-email-aqui]
+- 💼 LinkedIn: [seu-linkedin-aqui]

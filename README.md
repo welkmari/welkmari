@@ -24,7 +24,6 @@
 
 #### DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Ferramentas de Desenvolvimento
@@ -45,5 +44,5 @@
 
 ### 📫 Contato
 
-- ✉️ E-mail: [seu-email-aqui]
-- 💼 LinkedIn: [seu-linkedin-aqui]
+- ✉️ E-mail: welktech46@gmail.com
+- 💼 LinkedIn: https://br.linkedin.com/in/maria-helena-welk-493a96272

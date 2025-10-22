@@ -75,8 +75,8 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://www.notion.so/Estudos-Programa-o-268a487b0403803ba4c8f2a3482730c4">notion</a> ♡
+        ♡ 
+        <a href="https://www.notion.so/Estudos-Programa-o-28ca487b0403805b8cd6d228a13e08b0">notion</a> ♡
       </samp>
   </p>
 </div>

@@ -44,15 +44,15 @@
 </div>
 
 <p align="center">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="45" src="https://skillicons.dev/icons?i=python" />
+  <img width="45" src="https://skillicons.dev/icons?i=js" />
+  <img width="45" src="https://skillicons.dev/icons?i=figma" />
+  <img width="45" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="45" src="https://skillicons.dev/icons?i=react" />
+  <img width="45" src="https://skillicons.dev/icons?i=html" />
+  <img width="45" src="https://skillicons.dev/icons?i=css" />
+  <img width="45" src="https://skillicons.dev/icons?i=tailwind" />
+  <img width="45" src="https://skillicons.dev/icons?i=java" />
 </p>
 
 

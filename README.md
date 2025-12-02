@@ -78,7 +78,7 @@
 <p align="center">
       <samp>
         ♡ 
-        <a href="https://www.notion.so/Estudos-Programa-o-28ca487b0403805b8cd6d228a13e08b0">notion</a> ♡
+        <a href="https://www.notion.so/Estudos-Programa-o-2a346811e10180b0a7e3dd056757cdc1">notion</a> ♡
       </samp>
   </p>
 </div>

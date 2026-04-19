@@ -36,11 +36,6 @@ When I'm not studying, you'll probably find me on Notion organizing my entire li
 </p>
 
 
-
----
-
----
-
 ---
 
 ### 🛠️ Tech Stack
@@ -78,14 +73,12 @@ When I'm not studying, you'll probably find me on Notion organizing my entire li
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welkmari&layout=compact&theme=nord&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
-  <img src="https://streak-stats.demolab.com?user=welkmari&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welkmari&layout=compact&theme=dracula&hide_border=true&border_radius=5&langs_count=6" height="160" alt="languages" />
+  <img src="https://streak-stats.demolab.com?user=welkmari&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=welkmari&theme=nord&hide_border=false&border_radius=5&area=true" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=welkmari&theme=dracula&hide_border=true&border_radius=5&area=true" height="200" alt="activity graph" />
 </div>
 
 ---

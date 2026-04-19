@@ -20,6 +20,11 @@
 
 <br>
 
+<details align="center">
+  <summary><samp><b>✦ More Info ✦</b></samp></summary>
+
+<br>
+
 ---
 
 ### 👩‍💻 About Me
@@ -29,6 +34,8 @@ Hi! I'm <strong>Maria</strong>, a Software Engineering student passionate about 
 I love exploring new technologies, designing clean interfaces, and writing code that actually makes sense. <br>
 When I'm not studying, you'll probably find me on Notion organizing my entire life 🗂️
 </p>
+
+
 
 ---
 
@@ -85,5 +92,9 @@ When I'm not studying, you'll probably find me on Notion organizing my entire li
 <div align="center">
   <samp>♡ <a href="https://www.notion.so/Estudos-Programa-o-2a346811e10180b0a7e3dd056757cdc1">my notion</a> ♡</samp>
 </div>
+
+<br>
+
+</details>
 
 <br>

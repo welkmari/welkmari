@@ -32,29 +32,37 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=welkmari&theme=nord&hide_border=true" />
-</div>
-
-<br>
+###
 
 <p align="center">
-  <img width="45" src="https://skillicons.dev/icons?i=python" />
-  <img width="45" src="https://skillicons.dev/icons?i=js" />
-  <img width="45" src="https://skillicons.dev/icons?i=figma" />
-  <img width="45" src="https://skillicons.dev/icons?i=mysql" />
-  <img width="45" src="https://skillicons.dev/icons?i=react" />
-  <img width="45" src="https://skillicons.dev/icons?i=nextjs" />
-  <img width="45" src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="45" src="https://skillicons.dev/icons?i=php" />
-  <img width="45" src="https://skillicons.dev/icons?i=html" />
-  <img width="45" src="https://skillicons.dev/icons?i=css" />
-  <img width="45" src="https://skillicons.dev/icons?i=tailwind" />
-  <img width="45" src="https://skillicons.dev/icons?i=java" />
-  <img width="45" src="https://skillicons.dev/icons?i=storybook" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45" />
 </p>
 
-<br>
+###
 
 <div align="center">
 
@@ -63,8 +71,25 @@
 
 </div>
 
+###
+
 <div align="center">
-  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=welkmari&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=welkmari&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/welkmari/welkmari/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/welkmari/welkmari/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/welkmari/welkmari/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <p>
     <samp>
       ♡ <a href="https://www.notion.so/Estudos-Programa-o-2a346811e10180b0a7e3dd056757cdc1">notion</a> ♡
     </samp>

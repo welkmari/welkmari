@@ -41,6 +41,8 @@ When I'm not studying, you'll probably find me on Notion organizing my entire li
 
 ---
 
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -76,15 +78,8 @@ When I'm not studying, you'll probably find me on Notion organizing my entire li
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=welkmari&show_icons=true&theme=nord&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welkmari&layout=compact&theme=nord&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=welkmari&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=welkmari&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
 <br>
@@ -107,10 +102,6 @@ When I'm not studying, you'll probably find me on Notion organizing my entire li
 <div align="center">
   <samp>♡ <a href="https://www.notion.so/Estudos-Programa-o-2a346811e10180b0a7e3dd056757cdc1">my notion</a> ♡</samp>
 </div>
-
-<br>
-
-</details>
 
 <br>
 

@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/meow_♡-black" />
 </div>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;Junior+Developer+%7C+Software+Engineering+Student;Next.js+%7C+React+%7C+PHP+%7C+Python;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=Junior+Developer+%7C+Software+Engineering+Student;Be+welcome!" alt="Typing SVG"/>
 </div>
 <br>
 <details align="center">
@@ -45,7 +45,7 @@
     <samp><b>✦ STACKS ✦</b></samp>
     <br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,java,python,php,postgres,nextjs,react,storybook,git,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,java,python,php,mysql,nextjs,react,git,figma" />
     </a>
   </div>
   <br>

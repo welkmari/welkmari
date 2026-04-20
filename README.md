@@ -9,14 +9,11 @@
     </b>
   </samp>
 </div>
-
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p>
 </div>
-
 <br>
 <br>
-
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
@@ -24,15 +21,12 @@
   <img src="https://img.shields.io/badge/meow_♡-black" />
 </div>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Next.js+%7C+React+Native+%7C+PHP+%7C+Python;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;Junior+Developer+%7C+Software+Engineering+Student;Next.js+%7C+React+%7C+PHP+%7C+Python;Be+welcome!" alt="Typing SVG"/>
 </div>
-
 <br>
-
 <details align="center">
   <summary><samp><b>More Info</b></samp></summary>
   <br>
-
 <div align="center">
   <table>
     <tr>
@@ -46,23 +40,17 @@
     </tr>
   </table>
 </div>
-
   <br>
-
   <div align="center">
-    <samp><b>✦ MINHAS STACKS ✦</b></samp>
+    <samp><b>✦ STACKS ✦</b></samp>
+    <br><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nodejs,java,python,php,postgres,nextjs,react,storybook,git,figma" />
+    </a>
   </div>
-
-  <div align="center"><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,storybook,react,reactnative,bootstrap,php,python,java,mysql,postgresql,git,figma,ps,arduino&perline=18" />
-  </div>
-
   <br>
-
   ##
-
   <br>
-
   <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
@@ -74,7 +62,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/kamomiika/)
 
   </div>
-
   <div align="center">
     <p align="center">
       <samp>
@@ -85,11 +72,8 @@
       </samp>
     </p>
   </div>
-
   ##
-
 </details>
-
 <br>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>

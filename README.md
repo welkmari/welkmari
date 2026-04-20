@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/meow_♡-black" />
 </div>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;Junior+Developer+%7C+Software+Engineering+Student;Next.js+%7C+React+%7C+PHP+%7C+Python;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=Junior+Developer+%7C+Software+Engineering+Student;Be+welcome!" alt="Typing SVG"/>
 </div>
 <br>
 <details align="center">

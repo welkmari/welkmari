@@ -5,7 +5,7 @@
     <b>
       システムアナリスト
       <br>
-      Shalom, my name is Kamilly!
+      Hi, my name is Maria!
       <br>
 </div>
 <div align="center">

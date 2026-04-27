@@ -62,9 +62,7 @@
     <p align="center">
       <samp>
         ♡ <a href="https://app.rocketseat.com.br/me/welkkmaria">rocketseat</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        <a href="https://www.notion.so/Estudos-Programa-o-34f46811e10180db8a9ce6060f8941f3">notion</a> ♡
       </samp>
     </p>
   </div>

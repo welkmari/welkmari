@@ -35,8 +35,8 @@
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=welkmari&theme=nord_dark&utcOffset=8"/></td>
     </tr>
     <tr>
-      <td colspan="2"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=nord_dark"/></td>
-      <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord"/></a></td>
+      <td colspan="2"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=welkmari&theme=nord_dark"/></td>
+      <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=welkmari&theme=nord"/></a></td>
     </tr>
   </table>
 </div>

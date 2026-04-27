@@ -30,9 +30,9 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=welkmari&theme=nord_dark"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=welkmari&theme=nord_dark"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=welkmari&theme=nord_dark&utcOffset=8"/></td>
     </tr>
     <tr>
       <td colspan="2"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=nord_dark"/></td>
